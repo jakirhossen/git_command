@@ -1,0 +1,18 @@
+#Make dir
+ mkdir 
+mkdir -p
+
+rm 
+rm -r
+
+rmdir(empty)
+
+#initialixation
+
+git init
+
+git status
+
+nano ...
+
+
